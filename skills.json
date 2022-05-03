@@ -1,6 +1,6 @@
 {
 	"What_i_learn_at_this_course":
-	"1" : "Theory of software testing":("testing","bug-reports","documentation","types of testing","methods","SDLC","STLC", "and_etc"),
+	"1" : "Theory of software testing":{"testing","bug-reports","documentation","types of testing","methods","SDLC","STLC", "and_etc"},
 	"2" : "What is a client server arhitechture",
 	"3" : "Server request methods",
 	"4" : "Server responses",
@@ -20,7 +20,7 @@
 	"18": "Terminal and Linux Ubuntu ",
 	"19": "Simple bash scripting" , "Automatization of rouitne tasks",
 	"20": "Access to remote servers",
-	"21": "SQL":"Create , Delete , Drop , Insert into , Select , From , Where ",
+	"21": "SQL":{"Create , Delete , Drop , Insert into , Select , From , Where "},
 	"22": "Git",
 	"23": "Jmeter",
 	"24": "Scrum",
